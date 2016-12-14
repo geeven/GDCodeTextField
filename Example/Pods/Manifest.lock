@@ -1,0 +1,19 @@
+PODS:
+  - GDCodeTextField (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - GDCodeTextField (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  GDCodeTextField:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GDCodeTextField: 274582aba7a8a973b265d339d455d668883202c5
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: 41009beba9b59dc0856d3bdac44e7d5dc1af30a1
+
+COCOAPODS: 1.2.0.beta.1

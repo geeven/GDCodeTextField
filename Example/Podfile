@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GDCodeTextField_Example' do
+  pod 'GDCodeTextField', :path => '../'
+
+  target 'GDCodeTextField_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end

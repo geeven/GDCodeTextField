@@ -1,0 +1,22 @@
+{
+  "name": "GDCodeTextField",
+  "version": "0.1.0",
+  "summary": "A short description of GDCodeTextField.",
+  "description": "GDCodeTextField is for Code about just four number;",
+  "homepage": "https://github.com/geeven/GDCodeTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "geeven": "598800360@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/geeven/GDCodeTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GDCodeTextField/Classes/**/*"
+}
